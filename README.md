@@ -24,5 +24,5 @@ Ils sont exploités avec un script Python (__cree_systeme_beta03.py__) qui lit l
 |SFT 60  |2022-09-16 |1      |
 |STTA 254|2022-09-16 |2      |
 
-Cette image a été collée à partir du Presse-papier.
+Cette image a été collée à partir du Presse-papier.<br><br>
 ![image2](https://user-images.githubusercontent.com/52057610/189502393-4bbe468b-7a19-4b2b-9824-7b253af39a5d.jpg)
