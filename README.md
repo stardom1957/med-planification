@@ -10,7 +10,10 @@ D'abors quelques notes concernant le vocabulaire utilisé dans ce repo.
 
 ## Dossier LISTES
 
+Contient les listes dans diver format (PDF, txt, HTML, etc). La source de la liste peut-être déduite selon la nomenclature suivante :
+* astrodm_...* : liste provenant d'un des modules de la librairie astrodm créée par Dominique Martel.
+
 ## Dossier LOTS
 Les fichiers de ce dossier sont au format __LibreOffice ods__ (feuille de calcul).
 
-Ils sont exploités avec un script Python (__cree_systeme_beta03.py__) qui lit le lot et crée les dossiers correspondant à chaque système
+Ils sont exploités avec un script Python (__cree_systeme_beta03.py__) qui lit le lot et crée les dossiers correspondant à chaque système présent dans la liste.
