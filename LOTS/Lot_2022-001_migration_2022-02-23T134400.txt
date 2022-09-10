@@ -1,0 +1,3 @@
+Journal du traitement de Lot_2022-001_migration.ods
+Systag : 2022-02-23T134400
+Système hj476 : _info_système.csv existe déjà!
