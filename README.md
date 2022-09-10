@@ -3,7 +3,7 @@ Mesure des étoiles doubles - planification
 
 ## Introduction
 
-D'abors quelques notes concernant le vocabulaire utilisé dans ce repo.
+Quelques notes concernant le vocabulaire utilisé dans ce repo.
 
 * WDS : le Washington Doubles Star Catalog.
 * système : un système d'étoiles doubles (ou multiples) selon la désignation de découvreur du WDS (Discoverer & Number); par ex. STTA 254 ou STF 60.
