@@ -26,10 +26,10 @@ Les fichiers de ce dossier sont au format __LibreOffice ods__ (feuille de calcul
 Ils sont exploités avec un script Python (__cree_systeme_beta03.py__) qui lit le lot et crée les dossiers correspondant à chaque système présent dans la liste.
 
 ## TABLEAU DE PLANIFICATION<br>
-|système |Date prévue|Session|
-|--------|-----------|-------|
-|SFT 60  |2022-09-16 |1      |
-|STTA 254|2022-09-16 |2      |
+|système |Programme|Date prévue|Session|
+|--------|---------|-----------|-------|
+|SFT 60  |P2022-014|2022-09-16 |1      |
+|STTA 254|P2022-025|2022-09-16 |2      |
 
 Cette image a été collée à partir du Presse-papier.<br><br>
 ![image2](https://user-images.githubusercontent.com/52057610/189502393-4bbe468b-7a19-4b2b-9824-7b253af39a5d.jpg)
