@@ -28,7 +28,7 @@ Cette image a été collée à partir du Presse-papier.<br><br>
 ![image2](https://user-images.githubusercontent.com/52057610/189502393-4bbe468b-7a19-4b2b-9824-7b253af39a5d.jpg)
 
 #### Distance angulaire (en arcsec) du maxima d'ordre n d'un patron de diffraction créé par un masque à fente
-$$z = 206264.806 " \frac{n Lo}{Lf + Df}$$...(1)<br><br>
+$$z = 206264.806 " \frac{n \lambda}{Lf + Df}$$...(1)<br><br>
 où :
 
 $z$ est la séparation angulaire du maxima d'ordre n (arcsec)
@@ -37,7 +37,7 @@ __206264.806__ est le nombre de secondes d'arc dans un radian
 
 $n$ = 1 pour les maxima de 1er ordre
 
-$Lo$ est la longueur d'onde de la lumière en mm
+$\lambda$ est la longueur d'onde de la lumière en mm
 
 $Lf$ est la largeur des fentes en mm
 
