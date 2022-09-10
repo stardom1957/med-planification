@@ -22,3 +22,4 @@ Ils sont exploités avec un script Python (__cree_systeme_beta03.py__) qui lit l
 |système |Date prévue|Session|
 |--------|-----------|-------|
 |SFT 60  |2022-09-16 |1      |
+|STTA 254|2022-09-16 |2      |
