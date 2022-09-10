@@ -28,7 +28,7 @@ Cette image a été collée à partir du Presse-papier.<br><br>
 ![image2](https://user-images.githubusercontent.com/52057610/189502393-4bbe468b-7a19-4b2b-9824-7b253af39a5d.jpg)
 
 ## Example d'équation
-#### Distance angulaire (en arcsec) du maxima d'ordre n d'un patron de diffraction créé par un masque à fente
+#### Distance angulaire (en arcsec) du maxima d'ordre n d'un patron de diffraction créé par un masque à fentes
 $$z = 206264.806 " \frac{n \lambda}{Lf + Df}$$...(1)<br><br>
 où :
 
