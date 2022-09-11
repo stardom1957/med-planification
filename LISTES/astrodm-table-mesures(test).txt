@@ -2,3 +2,30 @@
                                                                  j                  Bessel     °     °       "      "                    °       "
     ------------------------------------------------------------------------------------------------------------------------------------------------------
 0  P2021-023   STTA254    AB   Cas  1    (-)  [2021-10-09]            NaN      [1]  2021.8  89.5  6.0e-02  56.5      0.3      2019       89      57.8  TAL
+
+    1 programme.
+    1 objet sessions examinés
+
+   États
+ -----------------------------------
+    0 terminé.
+    0 en cours.
+    0 en délai dépassé.
+    0 avec erreur.
+
+ Légende des codes d'état
+ ------------------------
+ Code  [descriptions] :
+   123 ['1:état, 2:explication, 3:méthode.']
+   C.. ["En cours d'observation. Voir explication."]
+   P.. ['Programme en PLANIFICATION.']
+   T.. ['Programme TERMINÉ, voir explication.']
+   ?.. ["Aucun programme d'observation assigné."]
+   .A. ['ACCEPTABLE, mais programme terminé avec N=1 et délai > 7.0 j.']
+   .E. ['ÉCHÉANCE de 7.0 j imminante!']
+   .O. ['OPTIMAL. Programme complété avec N>1.']
+   .S. ['Nouvelle SESSION à planifier.']
+   .R. ['Il peut y avoir des données prêtes pour la PRÉ-RÉDUCTION.']
+   .X. ['Données INUTILISABLES! Voir journal de post-réduction.']
+   ..L ['Méthode de mesure par Lucky Imaging.']
+   ..I ['Méthode de mesure par interférométrie des tavelures.']
