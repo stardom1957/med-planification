@@ -13,7 +13,7 @@ Quelques notes concernant le vocabulaire utilisé dans ce repo.
 
 ## Utilisation
 ### Dossier LISTES
-Au fur et à mesure des activités (planification, repérage, acquisition des données, pré-réduction et post-réduction), le suivi est effectué à l'aide des scripts de la librairie __astrodm__. Certains de ces scripts colligent les données qui se trouvent dans la structure de répertoires situé dans les dossiers de données (locaux). Ce sont ces données sont présentées sous forme de listes au format texte.
+Au fur et à mesure des activités (planification, repérage, acquisition des données, pré-réduction et post-réduction), le suivi est effectué à l'aide des scripts de la librairie __astrodm__. Certains de ces scripts colligent les données qui se trouvent dans la structure de répertoires située dans les dossiers de données (en local sur l'ordinateur de l'auteur). Ce sont ces données sont présentées sous forme de listes au format texte.
 
 Les listes se trouvent dans le dossier LISTES. Dans ce dossier, la nomenclature des listes est la suivante :<br>
 (Note : la date d'exécution de la liste est indiquée à la fin du nom de fichier)
