@@ -12,35 +12,16 @@ Quelques notes concernant le vocabulaire utilisé dans ce repo.
 * système : un système d'étoiles doubles (ou multiples) selon la désignation de découvreur du WDS (Discoverer & Number); par ex. STTA 254 ou STF 60.
 
 ## Utilisation
-
-Le fichier PLANIFICATION.md contient bien sûr la liste des programmes d'observations et les dates planifiées. Au fur et à mesure des activités (planification, acquisitions et réductions), le suivi est effectué à l'aide des scripts de la librairie astrodm qui colligent les données qui se retrouvent dans les listes.
-
 ### Dossier LISTES
+Au fur et à mesure des activités (planification, repérage, acquisition des données, pré-réduction et post-réduction), le suivi est effectué à l'aide des scripts de la librairie __astrodm__. Certains de ces scripts colligent les données qui se trouvent dans la structure de répertoires situé dans les dossiers de données (locaux). Ce sont ces données sont présentées sous forme de listes au format texte.
 
-Contient les listes dans diver format (PDF, txt, HTML, etc). La source de la liste peut-être déduite selon la nomenclature suivante :
-* astrodm_...* : liste provenant d'un des modules de la librairie astrodm créée par Dominique Martel.
+Les listes se trouvent dans le dossier LISTES. Dans ce dossier, la nomenclature des listes est la suivante :<br>
+(Note : la date d'exécution de la liste est indiquée à la fin du nom de fichier)
+* __astrodm-liste-info-systemes-trie(id_system+const)-2022-09-11T143528.txt__ : liste le contenu de tous les fichiers « _info_système.csv » présents dans la structure, ici triés par id_system et const.
+* __astrodm-liste-prog-obs-trie(id_system+obs_prog)-2022-09-11T143444.txt__ : liste des programmes d'observation, ici triés par id_system et obs_prog.
+* __astrodm_table_resultats_mesures.html__ : table de l'ensemble des mesures réalisées.
 
 ### Dossier LOTS
 Les fichiers de ce dossier sont au format __LibreOffice ods__ (feuille de calcul).
 
 Ils sont exploités avec un script Python (__cree_systeme_beta03.py__) qui lit le lot et crée les dossiers correspondant à chaque système présent dans la liste.
-
-Cette image a été collée à partir du Presse-papier.<br><br>
-![image2](https://user-images.githubusercontent.com/52057610/189502393-4bbe468b-7a19-4b2b-9824-7b253af39a5d.jpg)
-
-## Example d'équation
-#### Distance angulaire (en arcsec) du maxima d'ordre n d'un patron de diffraction créé par un masque à fentes
-$$z = 206264.806 " \frac{n \lambda}{Lf + Df}$$...(1)<br><br>
-où :
-
-$z$ est la séparation angulaire du maxima d'ordre n (arcsec)
-
-__206264.806__ est le nombre de secondes d'arc dans un radian
-
-$n$ = 1 pour les maxima de 1er ordre
-
-$\lambda$ est la longueur d'onde de la lumière en mm
-
-$Lf$ est la largeur des fentes en mm
-
-$Df$ est l'espacement des fentes, c.-à-d. la largeur des bandes opaques entre les fentes en mm
