@@ -1,8 +1,8 @@
 Liste des programmes d'observations dans : D:\DOCUMENTS\Astronomie\Data/med
 
-TriÈ par ['id_system', 'obs_prog']
+Tri√© par ['id_system', 'obs_prog']
 
-     obs_prog id_system   paire      id_WDS const Sessions     Dates_UTC dÈlai (j)    Ècheance …tat
+     obs_prog id_system   paire      id_WDS const Sessions     Dates_UTC d√©lai (j)    √©cheance √âtat
 0       aucun     BU105  aucune  09247+2611   Leo    [nan]         S. o.       NaN       S. o.    ?
 1       aucun     BU802  aucune  13486+4821   UMa    [nan]         S. o.       NaN       S. o.    ?
 2       aucun    GIC1AB  aucune  00090+2738   Peg    [nan]         S. o.       NaN       S. o.    ?
@@ -54,31 +54,31 @@ TriÈ par ['id_system', 'obs_prog']
 48  P2021-023   STTA254      AB  00013+6021   Cas      [1]  [2021-10-09]       NaN  2021-10-16  TAL
 49      aucun     VBS39  aucune  23433+6234   Cas    [nan]         S. o.       NaN       S. o.    ?
 
-    2 programmes diffÈrents.
-   50 systËmes diffÈrents.
+    2 programmes diff√©rents.
+   50 syst√®mes diff√©rents.
 
-   …tats des 50 enregistrements
+   √âtats des 50 enregistrements
  -----------------------------------
-    1 (T) terminÈs (voir description du code du centre).
+    1 (T) termin√©s (voir description du code du centre).
     1 (P) en planification.
-   48 (?) sans programme | paire assignÈ.
+   48 (?) sans programme | paire assign√©.
     0 (C) en cours.
-    0 (R) avec donnÈes prÍtes pour la PR…-R…DUCTION.
-    0 (X) avec donnÈes inutilisables (voir journal de rÈduction).
+    0 (R) avec donn√©es pr√™tes pour la PR√â-R√âDUCTION.
+    0 (X) avec donn√©es inutilisables (voir journal de r√©duction).
 
- LÈgende des codes d'Ètat
+ L√©gende des codes d'√©tat
  ------------------------
  Code  [descriptions] :
-   123 ['1:Ètat, 2:explication, 3:mÈthode.']
+   123 ['1:√©tat, 2:explication, 3:m√©thode.']
    C.. ["En cours d'observation. Voir explication."]
    P.. ['Programme en PLANIFICATION.']
-   T.. ['Programme TERMIN…, voir explication.']
-   ?.. ["Aucun programme d'observation assignÈ."]
-   .A. ['ACCEPTABLE, mais programme terminÈ avec N=1 et dÈlai > 7.0 j.']
-   .E. ['…CH…ANCE de 7.0 j imminante!']
-   .O. ['OPTIMAL. Programme complÈtÈ avec N>1.']
-   .S. ['Nouvelle SESSION ‡ planifier.']
-   .R. ['Il peut y avoir des donnÈes prÍtes pour la PR…-R…DUCTION.']
-   .X. ['DonnÈes INUTILISABLES! Voir journal de post-rÈduction.']
-   ..L ['MÈthode de mesure par Lucky Imaging.']
-   ..I ['MÈthode de mesure par interfÈromÈtrie des tavelures.']
+   T.. ['Programme TERMIN√â, voir explication.']
+   ?.. ["Aucun programme d'observation assign√©."]
+   .A. ['ACCEPTABLE, mais programme termin√© avec N=1 et d√©lai > 7.0 j.']
+   .E. ['√âCH√âANCE de 7.0 j imminante!']
+   .O. ['OPTIMAL. Programme compl√©t√© avec N>1.']
+   .S. ['Nouvelle SESSION √† planifier.']
+   .R. ['Il peut y avoir des donn√©es pr√™tes pour la PR√â-R√âDUCTION.']
+   .X. ['Donn√©es INUTILISABLES! Voir journal de post-r√©duction.']
+   ..L ['M√©thode de mesure par Lucky Imaging.']
+   ..I ['M√©thode de mesure par interf√©rom√©trie des tavelures.']
