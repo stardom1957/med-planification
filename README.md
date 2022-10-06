@@ -17,9 +17,9 @@ Au fur et à mesure des activités (planification, repérage, acquisition des do
 
 Les listes se trouvent dans le dossier LISTES. Dans ce dossier, la nomenclature des listes est la suivante :<br>
 (Note : la date d'exécution de la liste est indiquée à la fin du nom de fichier)
-* __astrodm-liste-info-systemes-trie(id_system+const)-2022-09-11T143528.txt__ : liste le contenu de tous les fichiers « _info_système.csv » présents dans la structure, ici triés par id_system et const.
-* __astrodm-liste-prog-obs-trie(id_system+obs_prog)-2022-09-11T143444.txt__ : liste des programmes d'observation, ici triés par id_system et obs_prog.
-* __astrodm_table_resultats_mesures.html__ : table de l'ensemble des mesures réalisées.
+* __astrodm-info-sys-par(id_system+const)-2022-09-11T143528.txt__ : liste le contenu de tous les fichiers « _info_système.csv » présents dans la structure, ici triés par id_system et const.
+* __astrodm-prog-obs-par(id_system+obs_prog)-2022-09-11T143444.txt__ : liste des programmes d'observation, ici triés par id_system et obs_prog.
+* __astrodm-mesures.txt__ : table de l'ensemble des mesures réalisées.
 
 ### Dossier LOTS
 Les fichiers de ce dossier sont au format __LibreOffice ods__ (feuille de calcul).
