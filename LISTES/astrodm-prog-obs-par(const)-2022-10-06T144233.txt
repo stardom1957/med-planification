@@ -1,0 +1,86 @@
+Liste des programmes d'observations dans : D:\DOCUMENTS\Astronomie\Data/med
+
+Trié par ['const']
+
+     obs_prog id_system   paire      id_WDS const Sessions     Dates_UTC délai (j)    écheance État
+0       aucun    STF205  aucune  02039+4220   And    [nan]         S. o.       NaN       S. o.    ?
+1       aucun     GRB34  aucune  00184+4401   And    [nan]         S. o.       NaN       S. o.    ?
+2       aucun    STT545  aucune  05597+3713   Aur    [nan]         S. o.       NaN       S. o.    ?
+3   P2022-013     VBS39      AC  23433+6234   Cas    [nan]         s. o.       NaN       s. o.  P L
+4   P2022-013     STF60      AB  00491+5749   Cas    [nan]         s. o.       NaN       s. o.  P L
+5   P2022-013     STF60      AE  00491+5749   Cas    [nan]         s. o.       NaN       s. o.  P L
+6   P2022-013     STF60      BD  00491+5749   Cas    [nan]         s. o.       NaN       s. o.  P L
+7   P2021-023   STTA254      AB  00013+6021   Cas      [1]  [2021-10-09]       NaN  2021-10-16  TAL
+8       aucun    STT490  aucune  23102+5727   Cas    [nan]         S. o.       NaN       S. o.    ?
+9       aucun    STT498  aucune  23313+5225   Cas    [nan]         S. o.       NaN       S. o.    ?
+10      aucun    STT499  aucune  23332+5724   Cas    [nan]         S. o.       NaN       S. o.    ?
+11      aucun    STT485  aucune  23027+5514   Cas    [nan]         S. o.       NaN       S. o.    ?
+12      aucun    STFA14  aucune  00158-1159   Cet    [nan]         S. o.       NaN       S. o.    ?
+13      aucun   STF2032  aucune  16147+3352   CrB    [nan]         S. o.       NaN       S. o.    ?
+14      aucun   STF1965  aucune  15394+3638   CrB    [nan]         S. o.       NaN       S. o.    ?
+15      aucun    STFA43  aucune  00368+6031   Cyg    [nan]         S. o.       NaN       S. o.    ?
+16      aucun   STF1872  aucune  14410+5757   Dra    [nan]         S. o.       NaN       S. o.    ?
+17      aucun   STF1362  aucune  09379+7305   Dra    [nan]         S. o.       NaN       S. o.    ?
+18      aucun   STF2130  aucune  17053+5428   Dra    [nan]         S. o.       NaN       S. o.    ?
+19      aucun   STTA123  aucune  13271+6444   Dra    [nan]         S. o.       NaN       S. o.    ?
+20      aucun   STF1066  aucune  07201+2159   Gem    [nan]         S. o.       NaN       S. o.    ?
+21      aucun   STF1110  aucune  07346+3153   Gem    [nan]         S. o.       NaN       S. o.    ?
+22      aucun    STF982  aucune  06546+1311   Gem    [nan]         S. o.       NaN       S. o.    ?
+23      aucun    STT215  aucune  10163+1744   Leo    [nan]         S. o.       NaN       S. o.    ?
+24      aucun     BU105  aucune  09247+2611   Leo    [nan]         S. o.       NaN       S. o.    ?
+25      aucun   STF1424  aucune  10200+1950   Leo    [nan]         S. o.       NaN       S. o.    ?
+26      aucun     HJ476  aucune  10120+2007   Leo    [nan]         S. o.       NaN       S. o.    ?
+27      aucun   STF1379  aucune  09453+0853   Leo    [nan]         S. o.       NaN       S. o.    ?
+28      aucun   STF1431  aucune  10256+0847   Leo    [nan]         S. o.       NaN       S. o.    ?
+29      aucun   STF1448  aucune  10344+2136   Leo    [nan]         S. o.       NaN       S. o.    ?
+30      aucun   STF1487  aucune  10556+2445   Leo    [nan]         S. o.       NaN       S. o.    ?
+31      aucun    SHJ107  aucune  09320+0943   Leo    [nan]         S. o.       NaN       S. o.    ?
+32      aucun    STF668  aucune  05145-0812   Ori    [nan]         S. o.       NaN       S. o.    ?
+33      aucun    GIC1AB  aucune  00090+2738   Peg    [nan]         S. o.       NaN       S. o.    ?
+34      aucun    STF100  aucune  01137+0735   Psc    [nan]         S. o.       NaN       S. o.    ?
+35      aucun    STFA25  aucune  00187+1559   Psc    [nan]         S. o.       NaN       S. o.    ?
+36      aucun    STFA58  aucune  00453+1019   Psc    [nan]         S. o.       NaN       S. o.    ?
+37  P2022-002   STF2417      AB  18562+0412   Ser    [nan]         s. o.       NaN       s. o.  P L
+38      aucun   STF1579  aucune  11551+4629   UMa    [nan]         S. o.       NaN       S. o.    ?
+39      aucun   STF1744  aucune  13239+5456   UMa    [nan]         S. o.       NaN       S. o.    ?
+40      aucun     BU802  aucune  13486+4821   UMa    [nan]         S. o.       NaN       S. o.    ?
+41      aucun   STF1346  aucune  09256+5401   UMa    [nan]         S. o.       NaN       S. o.    ?
+42      aucun   STF1321  aucune  09144+5241   UMa    [nan]         S. o.       NaN       S. o.    ?
+43      aucun   STF1315  aucune  09128+6141   UMa    [nan]         S. o.       NaN       S. o.    ?
+44      aucun   STF1553  aucune  11366+5608   UMa    [nan]         S. o.       NaN       S. o.    ?
+45      aucun   STF1349  aucune  09312+6732   UMa    [nan]         S. o.       NaN       S. o.    ?
+46      aucun   STF1627  aucune  12182-0357   Vir    [nan]         S. o.       NaN       S. o.    ?
+47      aucun   STF1649  aucune  12316-1104   Vir    [nan]         S. o.       NaN       S. o.    ?
+48      aucun   STF1575  aucune  11520+0850   Vir    [nan]         S. o.       NaN       S. o.    ?
+49      aucun   STF1670  aucune  12417-0127   Vir    [nan]         S. o.       NaN       S. o.    ?
+50      aucun    SHY588  aucune  12027-1043   Vir    [nan]         S. o.       NaN       S. o.    ?
+51      aucun   STF1668  aucune  12409+0850   Vir    [nan]         S. o.       NaN       S. o.    ?
+
+    3 programmes différents.
+   50 systèmes différents.
+
+   États des 52 enregistrements
+ -----------------------------------
+    1 (T) terminés (voir description du code du centre).
+    5 (P) en planification.
+   46 (?) sans programme | paire assigné.
+    0 (C) en cours.
+    0 (R) avec données prêtes pour la PRÉ-RÉDUCTION.
+    0 (X) avec données inutilisables (voir journal de réduction).
+
+ Légende des codes d'état
+ ------------------------
+ Code  [descriptions] :
+   123 ['1:état, 2:explication, 3:méthode.']
+   C.. ["En cours d'observation. Voir explication."]
+   P.. ['Programme en PLANIFICATION.']
+   T.. ['Programme TERMINÉ, voir explication.']
+   ?.. ["Aucun programme d'observation assigné."]
+   .A. ['ACCEPTABLE, mais programme terminé avec N=1 et délai > 7.0 j.']
+   .E. ['ÉCHÉANCE de 7.0 j imminante!']
+   .O. ['OPTIMAL. Programme complété avec N>1.']
+   .S. ['Nouvelle SESSION à planifier.']
+   .R. ['Il peut y avoir des données prêtes pour la PRÉ-RÉDUCTION.']
+   .X. ['Données INUTILISABLES! Voir journal de post-réduction.']
+   ..L ['Méthode de mesure par Lucky Imaging.']
+   ..I ['Méthode de mesure par interférométrie des tavelures.']

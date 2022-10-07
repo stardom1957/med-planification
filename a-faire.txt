@@ -1,2 +1,0 @@
-2022-09-10 Ouverture
-1. Concernant le format HTML : le code source est retourné plutôt que l'interprétation du HTML. Comment régler ceci?
