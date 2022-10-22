@@ -1,0 +1,79 @@
+Liste des programmes d'observations dans : D:\DOCUMENTS\Astronomie\Data/med
+
+Trié par ['const']
+
+     obs_prog id_system   paire      id_WDS const Sessions     Dates_UTC délai (j)    écheance État
+0   P2022-014    STF205    A,BC  02039+4220   And    [nan]         s. o.       NaN       s. o.  P L
+1   P2022-014     GRB34      AB  00184+4401   And    [nan]         s. o.       NaN       s. o.  P L
+2   P2022-016    STT545      AD  05597+3713   Aur    [nan]         s. o.       NaN       s. o.  P L
+3   P2022-016    STT545      AC  05597+3713   Aur    [nan]         s. o.       NaN       s. o.  P L
+4   P2022-016    STT545      AB  05597+3713   Aur    [nan]         s. o.       NaN       s. o.  P L
+5   P2022-013     VBS39      AC  23433+6234   Cas    [nan]         s. o.       NaN       s. o.  P L
+6   P2022-013     STF60      AB  00491+5749   Cas    [nan]         s. o.       NaN       s. o.  P L
+7   P2022-013     STF60      AE  00491+5749   Cas    [nan]         s. o.       NaN       s. o.  P L
+8   P2022-013     STF60      BD  00491+5749   Cas    [nan]         s. o.       NaN       s. o.  P L
+9   P2022-013   STI3088     PPL  00033+5833   Cas    [nan]         s. o.       NaN       s. o.  P L
+10  P2022-013    STT485      AB  23027+5514   Cas    [nan]         s. o.       NaN       s. o.  P L
+11  P2022-013    STT485      AC  23027+5514   Cas    [nan]         s. o.       NaN       s. o.  P L
+12  P2022-013    STT490      AB  23102+5727   Cas    [nan]         s. o.       NaN       s. o.  P L
+13  P2022-013    STT490      AC  23102+5727   Cas    [nan]         s. o.       NaN       s. o.  P L
+14  P2022-013    STT498      AB  23313+5225   Cas    [nan]         s. o.       NaN       s. o.  P L
+15  P2022-013    STT498      AC  23313+5225   Cas    [nan]         s. o.       NaN       s. o.  P L
+16  P2022-013    STT499    A,BC  23332+5724   Cas    [nan]         s. o.       NaN       s. o.  P L
+17  P2022-013       ES1      AC  00152+5947   Cas    [nan]         s. o.       NaN       s. o.  P L
+18  P2022-013    STT485      BC  23027+5514   Cas    [nan]         s. o.       NaN       s. o.  P L
+19  P2021-023   STTA254      AB  00013+6021   Cas      [1]  [2021-10-09]       NaN  2021-10-16  TAL
+20      aucun    STFA14  aucune  00158-1159   Cet    [nan]         S. o.       NaN       S. o.    ?
+21      aucun   STF2032  aucune  16147+3352   CrB    [nan]         S. o.       NaN       S. o.    ?
+22      aucun   STF1965  aucune  15394+3638   CrB    [nan]         S. o.       NaN       S. o.    ?
+23      aucun    STFA43  aucune  00368+6031   Cyg    [nan]         S. o.       NaN       S. o.    ?
+24      aucun   STF1362  aucune  09379+7305   Dra    [nan]         S. o.       NaN       S. o.    ?
+25      aucun   STF1872  aucune  14410+5757   Dra    [nan]         S. o.       NaN       S. o.    ?
+26      aucun   STF2130  aucune  17053+5428   Dra    [nan]         S. o.       NaN       S. o.    ?
+27      aucun   STTA123  aucune  13271+6444   Dra    [nan]         S. o.       NaN       S. o.    ?
+28      aucun   STF1066  aucune  07201+2159   Gem    [nan]         S. o.       NaN       S. o.    ?
+29      aucun    STF982  aucune  06546+1311   Gem    [nan]         S. o.       NaN       S. o.    ?
+30      aucun   STF1110  aucune  07346+3153   Gem    [nan]         S. o.       NaN       S. o.    ?
+31      aucun    SHJ107  aucune  09320+0943   Leo    [nan]         S. o.       NaN       S. o.    ?
+32      aucun    STT215  aucune  10163+1744   Leo    [nan]         S. o.       NaN       S. o.    ?
+33      aucun   STF1379  aucune  09453+0853   Leo    [nan]         S. o.       NaN       S. o.    ?
+34      aucun   STF1424  aucune  10200+1950   Leo    [nan]         S. o.       NaN       S. o.    ?
+35      aucun   STF1431  aucune  10256+0847   Leo    [nan]         S. o.       NaN       S. o.    ?
+36      aucun   STF1448  aucune  10344+2136   Leo    [nan]         S. o.       NaN       S. o.    ?
+37      aucun   STF1487  aucune  10556+2445   Leo    [nan]         S. o.       NaN       S. o.    ?
+38      aucun     HJ476  aucune  10120+2007   Leo    [nan]         S. o.       NaN       S. o.    ?
+39      aucun     BU105  aucune  09247+2611   Leo    [nan]         S. o.       NaN       S. o.    ?
+40      aucun    STF668  aucune  05145-0812   Ori    [nan]         S. o.       NaN       S. o.    ?
+41      aucun    GIC1AB  aucune  00090+2738   Peg    [nan]         S. o.       NaN       S. o.    ?
+42  P2022-015    STFA58     PPL  00453+1019   Psc    [nan]         s. o.       NaN       s. o.  P L
+43  P2022-015    STF100      AB  01137+0735   Psc    [nan]         s. o.       NaN       s. o.  P L
+44  P2022-015    STFA25      AC  00187+1559   Psc    [nan]         s. o.       NaN       s. o.  P L
+45  P2022-015    STFA25      AB  00187+1559   Psc    [nan]         s. o.       NaN       s. o.  P L
+46  P2022-015    STFA58      AC  00453+1019   Psc    [nan]         s. o.       NaN       s. o.  P L
+47  P2022-002   STF2417      AB  18562+0412   Ser    [nan]         s. o.       NaN       s. o.  P L
+48      aucun   STF1744  aucune  13239+5456   UMa    [nan]         S. o.       NaN       S. o.    ?
+49      aucun     BU802  aucune  13486+4821   UMa    [nan]         S. o.       NaN       S. o.    ?
+50      aucun   STF1553  aucune  11366+5608   UMa    [nan]         S. o.       NaN       S. o.    ?
+51      aucun   STF1579  aucune  11551+4629   UMa    [nan]         S. o.       NaN       S. o.    ?
+52      aucun   STF1321  aucune  09144+5241   UMa    [nan]         S. o.       NaN       S. o.    ?
+53      aucun   STF1346  aucune  09256+5401   UMa    [nan]         S. o.       NaN       S. o.    ?
+54      aucun   STF1349  aucune  09312+6732   UMa    [nan]         S. o.       NaN       S. o.    ?
+55      aucun   STF1315  aucune  09128+6141   UMa    [nan]         S. o.       NaN       S. o.    ?
+56      aucun    SHY588  aucune  12027-1043   Vir    [nan]         S. o.       NaN       S. o.    ?
+57      aucun   STF1670  aucune  12417-0127   Vir    [nan]         S. o.       NaN       S. o.    ?
+58      aucun   STF1668  aucune  12409+0850   Vir    [nan]         S. o.       NaN       S. o.    ?
+59      aucun   STF1649  aucune  12316-1104   Vir    [nan]         S. o.       NaN       S. o.    ?
+60      aucun   STF1627  aucune  12182-0357   Vir    [nan]         S. o.       NaN       S. o.    ?
+61      aucun   STF1575  aucune  11520+0850   Vir    [nan]         S. o.       NaN       S. o.    ?
+
+    6 programmes différents.
+   52 systèmes différents.
+
+   États des 62 enregistrements
+ -----------------------------------
+    1 (T) terminés (voir description du code du centre).
+   25 (P) en planification.
+   36 (?) sans programme | paire assigné.
+    0 (C) en cours.
+    0 (R) avec données prêtes pour la PRÉ-RÉDUCTION.
+    0 (X) avec données inutilisables (voir journal de réduction).
