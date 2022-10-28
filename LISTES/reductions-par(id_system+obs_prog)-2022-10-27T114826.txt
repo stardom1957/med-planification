@@ -1,0 +1,37 @@
+Trié par ['id_system', 'obs_prog']
+
+    obs_prog id_system paire const  N groupe     Dates_UTC  delai_entre_N Sessions    Époque     pa  pa_sig    sep  sep_sig  WDS_obs2  WDS_pa2  WDS_sep2 État
+0  P2021-023   STTA254    AB   Cas  1    (-)  [2021-10-09]            NaN      [1]  2021.772  89.54    0.06  56.47    0.252      2019       89      57.8  TAL
+
+    1 programmes différents.
+    1 objets sessions examinés.
+
+   États des 1 enregistrements
+ -----------------------------------
+    0 terminés.
+    0 en cours.
+    0 en délai dépassé.
+    0 avec erreur.
+
+ Légende des codes d'état
+ ------------------------
+ Code  [descriptions] :
+   123 ['1:état, 2:explication, 3:méthode.']
+   C.. ["En cours d'observation. Voir explication."]
+   P.. ['Programme en PLANIFICATION.']
+   T.. ['Programme TERMINÉ, voir explication.']
+   ?.. ["Aucun programme d'observation assigné."]
+   .A. ['ACCEPTABLE, mais programme terminé avec N=1 et délai > 7.0 j.']
+   .E. ['ÉCHÉANCE de 7.0 j imminante!']
+   .O. ['OPTIMAL. Programme complété avec N>1.']
+   .S. ['Nouvelle SESSION à planifier.']
+   .R. ['Il peut y avoir des données prêtes pour la PRÉ-RÉDUCTION.']
+   .X. ['Données INUTILISABLES! Voir journal de post-réduction.']
+   ..L ['Méthode de mesure par Lucky Imaging.']
+   ..I ['Méthode de mesure par interférométrie des tavelures.']
+
+EXEMPLES DE REQUÊTES :
+reductions.query("id_system == 'STF 982'")
+reductions.query("État == 'P  '")
+reductions.query("const == 'And'")
+reductions.query("const == 'And' or const == 'Gem'")
