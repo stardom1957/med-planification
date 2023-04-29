@@ -61,3 +61,12 @@ PROCÉDURE Mise en page d'un fichier PDF à partir d'un cahier Jupyter TERMINÉ
   10.1 data resquet à WDS dans dossier de projet FAIT
   10.2 copier article JDSO dans dossier de projet FAIT
   10.3 
+  
+ 11. Mise en route observatoire :
+  11.1 TSX :
+   11.1.1 EFW8 config des filtres incluant !SHUTTER! ou !Shutter! et test
+   11.1.2 horizon custom, mesures avec GH?
+  11.2 FC, configuration :
+   11.2.1 EFW5 config des filtres
+   11.2.2 config du profil med (mesures étoiles doubles), test et écriture de la procédure
+   11.2.3 
