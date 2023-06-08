@@ -1,0 +1,20 @@
+
+Liste du fichier des calibrations d'échelle.
+      index_cal_e               dt_obs_utc  temp_to    map         E   E_sigma type_cal id_masque id_filtre                                                 note
+0   2021-10-08b01  2021-10-08T23:51:48.956     9.80  30237  0.126976  0.000779        f      a3mm       ha1             Notes d'environnement pour 2021-10-08b01
+1   2021-10-08b02  2021-10-08T23:53:34.816     9.80  30237  0.126846  0.000778        f      a3mm       ha1             Notes d'environnement pour 2021-10-08b02
+2   2022-09-23b01  2022-09-23T01:44:20.335     7.44   7899  0.128673  0.000807        f      a3mm       ha1                 Projet 2022-011 : map REFERENCE - 75
+3   2022-09-23b02  2022-09-23T01:42:34.933     7.44   7914  0.128608  0.000795        f      a3mm       ha1                 Projet 2022-011 : map REFERENCE - 60
+4   2022-09-23b03  2022-09-23T01:41:07.792     7.50   7929  0.128570  0.000787        f      a3mm       ha1                 Projet 2022-011 : map REFERENCE - 45
+5   2022-09-23b04  2022-09-23T01:37:53.703     7.50   7944  0.128632  0.000785        f      a3mm       ha1                 Projet 2022-011 : map REFERENCE - 30
+6   2022-09-23b05  2022-09-23T01:35:52.734     7.50   7959  0.128681  0.001049        f      a3mm       ha1                 Projet 2022-011 : map REFERENCE - 15
+7   2022-09-23b06  2022-09-23T01:32:15.123     7.56   7974  0.128655  0.000787        f      a3mm       ha1            Projet 2022-011 : #### map REFERENCE ####
+8   2022-09-23b07  2022-09-23T01:50:54.333     7.38   7989  0.128631  0.000799        f      a3mm       ha1                 Projet 2022-011 : map REFERENCE + 15
+9   2022-09-23b08  2022-09-23T01:53:09.280     7.31   8004  0.128821  0.001031        f      a3mm       ha1                Projet 2022-011 :  map REFERENCE + 30
+10  2022-09-23b09  2022-09-23T01:55:07.076     7.31   8019  0.128610  0.000805        f      a3mm       ha1                Projet 2022-011 :  map REFERENCE + 45
+11  2022-09-23b10  2022-09-23T01:56:36.763     7.31   8034  0.128806  0.000792        f      a3mm       ha1                Projet 2022-011 :  map REFERENCE + 60
+12  2022-09-23b11  2022-09-23T01:58:35.042     7.31   8049  0.128716  0.000785        f      a3mm       ha1                Projet 2022-011 :  map REFERENCE + 75
+13  2022-09-23b12  2022-09-23T01:47:20.699     7.44   7884  0.128016  0.000900        f      a3mm       ha1                Projet 2022-011 :  map REFERENCE - 90
+14  2022-09-23b13  2022-09-23T02:00:51.309     7.25   8064  0.128528  0.000994        f      a3mm       ha1                Projet 2022-011 :  map REFERENCE + 90
+15  2022-09-23b14  2022-09-23T02:34:29.700     6.88   8084  0.128418  0.000942        f      a3mm       ha1               Projet 2022-011 :  map REFERENCE + 110
+16  2022-09-23b99  2022-09-23T01:32:15.123     7.56   7974  0.128583  0.000798        f      a3mm       ha1  Projet 2022-011 : test à partir des données de b06.
