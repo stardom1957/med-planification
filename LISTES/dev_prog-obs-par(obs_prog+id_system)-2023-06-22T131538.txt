@@ -1,0 +1,75 @@
+Liste des programmes d'observations dans : D:\DOCUMENTS\Astronomie\dev/med
+
+Trié par ['obs_prog', 'id_system']
+
+     obs_prog id_system   paire      id_WDS const Sessions                 Dates_UTC délai (j)    écheance État
+0   P2020-018   GRB  34      AB  00184+4401   And    [nan]                     s. o.       NaN       s. o.  P L
+1   P2020-018   STFA 43      AB  00368+6031   Cyg    [nan]                     s. o.       NaN       s. o.  P L
+2   P2020-021   STF 205    A,BC  02039+4220   And    [nan]                     s. o.       NaN       s. o.  P L
+3   P2020-027   STF 668    A,BC  05145-0812   Ori      [1]                2022-03-05     467.7  2022-03-12  TRL
+4   P2020-027   STFA 14      AC  05320-0018   Ori    [nan]                     s. o.       NaN       s. o.  P L
+5   P2021-003   STF 982      AB  06546+1311   Gem    [nan]                     s. o.       NaN       s. o.  P L
+6   P2021-003   STF 982      AC  06546+1311   Gem    [nan]                     s. o.       NaN       s. o.  P L
+7   P2021-003   STF1066     PPL  07201+2159   Gem    [nan]                     s. o.       NaN       s. o.  P L
+8   P2021-003   STF1110      AB  07346+3153   Gem    [nan]                     s. o.       NaN       s. o.  P L
+9   P2021-003   STF1110      AC  07346+3153   Gem    [nan]                     s. o.       NaN       s. o.  P L
+10  P2021-021   STF 205    A,BC  02039+4220   And    [nan]                     s. o.       NaN       s. o.  P L
+11  P2021-023   STFA 58      AC  00453+1019   Cep      [1]                2021-10-08     615.7  2021-10-15  TRL
+12  P2021-023   STTA254      AB  00013+6021   Cas   [1, 2]  [2021-10-09, 2021-10-16]       7.0              TOL
+13  P2021-023   STTA254      AB  00013+6021   Cas      [3]              [2021-10-24]       NaN  2021-10-31  TAL
+14  P2022-001   STTA254      AB  00013+6021   Cas    [nan]                     s. o.       NaN       s. o.  P L
+15  P2022-003   BU  105      AB  09247+2611   Leo      [1]                     s. o.       NaN       s. o.  P L
+16      aucun   BU  794  aucune  11537+7345   Dra    [nan]                     S. o.       NaN       S. o.    ?
+17      aucun   BU  802  aucune  13486+4821   UMa    [nan]                     S. o.       NaN       S. o.    ?
+18      aucun   HJ  476  aucune  10120+2007   Leo    [nan]                     S. o.       NaN       S. o.    ?
+19      aucun   HU  878  aucune  10326+8055   Dra    [nan]                     S. o.       NaN       S. o.    ?
+20      aucun   SHJ 107  aucune  09320+0943   Leo    [nan]                     S. o.       NaN       S. o.    ?
+21      aucun   SHY 588  aucune  12027-1043   Vir    [nan]                     S. o.       NaN       S. o.    ?
+22      aucun   STF  60  aucune  00491+5749   Cas    [nan]                     S. o.       NaN       S. o.    ?
+23      aucun   STF 100      AB  01137+0735   Psc    [nan]                     s. o.       NaN       s. o.    ?
+24      aucun   STF1315  aucune  09128+6141   UMa    [nan]                     S. o.       NaN       S. o.    ?
+25      aucun   STF1321  aucune  09144+5241   UMa    [nan]                     S. o.       NaN       S. o.    ?
+26      aucun   STF1346  aucune  09256+5401   UMa    [nan]                     S. o.       NaN       S. o.    ?
+27      aucun   STF1349  aucune  09312+6732   UMa    [nan]                     S. o.       NaN       S. o.    ?
+28      aucun   STF1362  aucune  09379+7305   Dra    [nan]                     S. o.       NaN       S. o.    ?
+29      aucun   STF1379  aucune  09453+0853   Leo    [nan]                     S. o.       NaN       S. o.    ?
+30      aucun   STF1588  aucune  12023+7222   Dra    [nan]                     S. o.       NaN       S. o.    ?
+31      aucun   STFA 25  aucune  00187+1559   Psc    [nan]                     S. o.       NaN       S. o.    ?
+32      aucun   STFA 35  aucune  17322+5511   Dra    [nan]                     S. o.       NaN       S. o.    ?
+33      aucun   STT 242  aucune  12001+7039   Dra    [nan]                     S. o.       NaN       S. o.    ?
+34      aucun   STT 485  aucune  23027+5514   Cas    [nan]                     S. o.       NaN       S. o.    ?
+35      aucun   STT 490  aucune  23102+5727   Cas    [nan]                     S. o.       NaN       S. o.    ?
+36      aucun   STT 498  aucune  23313+5225   Cas    [nan]                     S. o.       NaN       S. o.    ?
+37      aucun   STT 499  aucune  23332+5724   Cas    [nan]                     S. o.       NaN       S. o.    ?
+38      aucun   STT 545  aucune  05597+3713   Aur    [nan]                     S. o.       NaN       S. o.    ?
+39      aucun   STTA123  aucune  13271+6444   Dra    [nan]                     S. o.       NaN       S. o.    ?
+40      aucun   VBS  39  aucune  23433+6234   Cas    [nan]                     S. o.       NaN       S. o.    ?
+
+    8 programmes différents.
+   36 systèmes différents.
+
+   États des 41 enregistrements
+ -----------------------------------
+    4 (T) terminés (voir description du code du centre).
+   12 (P) en planification.
+   25 (?) sans programme | paire assigné.
+    0 (C) en cours.
+    2 (R) avec données prêtes pour la PRÉ-RÉDUCTION.
+    0 (X) avec données inutilisables (voir journal de réduction).
+
+ Légende des codes d'état
+ ------------------------
+ Code  [descriptions] :
+   123 ['1:état, 2:explication, 3:méthode.']
+   C.. ["En cours d'observation. Voir explication."]
+   P.. ['Programme en PLANIFICATION.']
+   T.. ['Programme TERMINÉ, voir explication.']
+   ?.. ["Aucun programme d'observation assigné."]
+   .A. ['ACCEPTABLE, mais programme terminé avec N=1 et délai > 7.0 j.']
+   .E. ['ÉCHÉANCE de 7.0 j imminante!']
+   .O. ['OPTIMAL. Programme complété avec N>1.']
+   .S. ['Nouvelle SESSION à planifier.']
+   .R. ['Il peut y avoir des données prêtes pour la PRÉ-RÉDUCTION.']
+   .X. ['Données INUTILISABLES! Voir journal de post-réduction.']
+   ..L ['Méthode de mesure par Lucky Imaging.']
+   ..I ['Méthode de mesure par interférométrie des tavelures.']
