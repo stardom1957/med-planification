@@ -1,0 +1,164 @@
+Suivi des programmes d'observations dans : D:\DOCUMENTS\Astronomie\Data/med
+
+Trié par ['obs_prog', 'id_system']
+
+      obs_prog id_system   paire      id_WDS const Sessions     Dates_UTC  délai (j)    écheance État
+0    P2021-023   STTA254      AB  00013+6021   Cas      [1]  [2021-10-09]        NaN  2021-10-16  TAL
+1    P2022-002   STF2417      AB  18562+0412   Ser    [nan]         s. o.        NaN       s. o.  P L
+2    P2022-013   ES    1      AC  00152+5947   Cas    [nan]         s. o.        NaN       s. o.  P L
+3    P2022-013   STF  60      AB  00491+5749   Cas    [nan]         s. o.        NaN       s. o.  P L
+4    P2022-013   STF  60      AE  00491+5749   Cas    [nan]         s. o.        NaN       s. o.  P L
+5    P2022-013   STF  60      BD  00491+5749   Cas    [nan]         s. o.        NaN       s. o.  P L
+6    P2022-013   STI3088     PPL  00033+5833   Cas    [nan]         s. o.        NaN       s. o.  P L
+7    P2022-013   STT 485      AB  23027+5514   Cas    [nan]         s. o.        NaN       s. o.  P L
+8    P2022-013   STT 485      AC  23027+5514   Cas    [nan]         s. o.        NaN       s. o.  P L
+9    P2022-013   STT 485      BC  23027+5514   Cas    [nan]         s. o.        NaN       s. o.  P L
+10   P2022-013   STT 490      AB  23102+5727   Cas    [nan]         s. o.        NaN       s. o.  P L
+11   P2022-013   STT 490      AC  23102+5727   Cas    [nan]         s. o.        NaN       s. o.  P L
+12   P2022-013   STT 498      AB  23313+5225   Cas    [nan]         s. o.        NaN       s. o.  P L
+13   P2022-013   STT 498      AC  23313+5225   Cas    [nan]         s. o.        NaN       s. o.  P L
+14   P2022-013   STT 499    A,BC  23332+5724   Cas    [nan]         s. o.        NaN       s. o.  P L
+15   P2022-013   VBS  39      AC  23433+6234   Cas    [nan]         s. o.        NaN       s. o.  P L
+16   P2022-014   BU  305      AC  02383+3744   And    [nan]         s. o.        NaN       s. o.  P L
+17   P2022-014   GRB  34      AB  00184+4401   And    [nan]         s. o.        NaN       s. o.  P L
+18   P2022-014   STF 205    A,BC  02039+4220   And    [nan]         s. o.        NaN       s. o.  P L
+19   P2022-015   STF  58     PPL  00453+1019   Psc    [nan]         s. o.        NaN       s. o.  P L
+20   P2022-015   STF 100      AB  01137+0735   Psc    [nan]         s. o.        NaN       s. o.  P L
+21   P2022-016   STT 545      AB  05597+3713   Aur    [nan]         s. o.        NaN       s. o.  P L
+22   P2022-016   STT 545      AC  05597+3713   Aur    [nan]         s. o.        NaN       s. o.  P L
+23   P2022-016   STT 545      AD  05597+3713   Aur    [nan]         s. o.        NaN       s. o.  P L
+24   P2022-017   GIC   1      AB  00090+2738   Peg    [nan]         s. o.        NaN       s. o.  P L
+25   P2022-018   STFA 58      AC  22292+5825   Cep    [nan]         s. o.        NaN       s. o.  P L
+26   P2022-019   STFA 25      AB  13135+6717   Dra    [nan]         s. o.        NaN       s. o.  P L
+27   P2022-019   STFA 25      AC  13135+6717   Dra    [nan]         s. o.        NaN       s. o.  P L
+28   P2022-019   STTA123      AB  13271+6444   Dra    [nan]         s. o.        NaN       s. o.  P L
+29   P2022-020   A   152      AB  19106+3701   Lyr    [nan]         s. o.        NaN       s. o.  P L
+30   P2022-020   A   152      AC  19106+3701   Lyr    [nan]         s. o.        NaN       s. o.  P L
+31   P2022-020   ALI 390     PPL  19240+3653   Lyr    [nan]         s. o.        NaN       s. o.  P L
+32   P2022-020   ALI 392     PPL  19278+3709   Lyr    [nan]         s. o.        NaN       s. o.  P L
+33   P2022-020   ALI 619     PPL  19181+3721   Lyr    [nan]         s. o.        NaN       s. o.  P L
+34   P2022-020   ALI 620     PPL  19190+3744   Lyr    [nan]         s. o.        NaN       s. o.  P L
+35   P2022-020   ALI 621     PPL  19204+3751   Lyr    [nan]         s. o.        NaN       s. o.  P L
+36   P2022-020   ALI 627     PPL  19281+3734   Lyr    [nan]         s. o.        NaN       s. o.  P L
+37   P2022-020   ALI1105     PPL  18560+3941   Lyr    [nan]         s. o.        NaN       s. o.  P L
+38   P2022-020   ALI1111     PPL  19187+4006   Lyr    [nan]         s. o.        NaN       s. o.  P L
+39   P2022-020   BU  648      AB  18570+3254   Lyr    [nan]         s. o.        NaN       s. o.  P L
+40   P2022-020   DA    9     PPL  19043+4353   Lyr    [nan]         s. o.        NaN       s. o.  P L
+41   P2022-020   DAM 153      AC  19212+3948   Lyr    [nan]         s. o.        NaN       s. o.  P L
+42   P2022-020   DEA 218     PPL  19169+3905   Lyr    [nan]         s. o.        NaN       s. o.  P L
+43   P2022-020   ES 1560     PPL  18477+4159   Lyr    [nan]         s. o.        NaN       s. o.  P L
+44   P2022-020   ES 1654     PPL  18342+4039   Lyr    [nan]         s. o.        NaN       s. o.  P L
+45   P2022-020   ES 2489      AB  19201+3752   Lyr    [nan]         s. o.        NaN       s. o.  P L
+46   P2022-020   JKA   3      AC  18445+4317   Lyr    [nan]         s. o.        NaN       s. o.  P L
+47   P2022-020   KOI  45      AB  19211+3850   Lyr    [nan]         s. o.        NaN       s. o.  P L
+48   P2022-020   KOI  45      AC  19211+3850   Lyr    [nan]         s. o.        NaN       s. o.  P L
+49   P2022-020   KOI2827     PPL  19047+4301   Lyr    [nan]         s. o.        NaN       s. o.  P L
+50   P2022-020   KOI5170     PPL  19255+4038   Lyr    [nan]         s. o.        NaN       s. o.  P L
+51   P2022-020   SEI 592      AB  19212+3948   Lyr    [nan]         s. o.        NaN       s. o.  P L
+52   P2022-020   SHJ 282      AC  18549+3358   Lyr    [nan]         s. o.        NaN       s. o.  P L
+53   P2022-020   SHJ 289     PPL  19135+3902   Lyr    [nan]         s. o.        NaN       s. o.  P L
+54   P2022-020   SLE 182     PPL  18298+3930   Lyr      [1]    2023-06-23       73.3  2023-06-30  ANL
+55   P2022-020   STF2333      AB  18311+3215   Lyr      [1]  [2023-06-23]        NaN  2023-06-30  TAL
+56   P2022-020   STF2333      AC  18311+3215   Lyr    [nan]         s. o.        NaN       s. o.  P L
+57   P2022-020   STF2333      AD  18311+3215   Lyr    [nan]         s. o.        NaN       s. o.  P L
+58   P2022-020   STF2333      BC  18311+3215   Lyr    [nan]         s. o.        NaN       s. o.  P L
+59   P2022-020   STF2349      AB  18366+3328   Lyr    [nan]         s. o.        NaN       s. o.  P L
+60   P2022-020   STF2351     PPL  18362+4117   Lyr    [nan]         s. o.        NaN       s. o.  P L
+61   P2022-020   STF2362     PPL  18384+3603   Lyr    [nan]         s. o.        NaN       s. o.  P L
+62   P2022-020   STF2367    A,BC  18413+3018   Lyr    [nan]         s. o.        NaN       s. o.  P L
+63   P2022-020   STF2367    AB,D  18413+3018   Lyr    [nan]         s. o.        NaN       s. o.  P L
+64   P2022-020   STF2367    AB,E  18413+3018   Lyr    [nan]         s. o.        NaN       s. o.  P L
+65   P2022-020   STF2380     PPL  18429+4456   Lyr    [nan]         s. o.        NaN       s. o.  P L
+66   P2022-020   STF2390     PPL  18458+3431   Lyr    [nan]         s. o.        NaN       s. o.  P L
+67   P2022-020   STF2397     PPL  18472+3125   Lyr    [nan]         s. o.        NaN       s. o.  P L
+68   P2022-020   STF2406     PPL  18499+2626   Lyr    [nan]         s. o.        NaN       s. o.  P L
+69   P2022-020   STF2461      AB  19074+3230   Lyr    [nan]         s. o.        NaN       s. o.  P L
+70   P2022-020   STF2461      AI  19074+3230   Lyr    [nan]         s. o.        NaN       s. o.  P L
+71   P2022-020   STF2461      CH  19074+3230   Lyr    [nan]         s. o.        NaN       s. o.  P L
+72   P2022-020   STF2461      CR  19074+3230   Lyr    [nan]         s. o.        NaN       s. o.  P L
+73   P2022-020   STF2461      EG  19074+3230   Lyr    [nan]         s. o.        NaN       s. o.  P L
+74   P2022-020   STF2469      AB  19078+3856   Lyr    [nan]         s. o.        NaN       s. o.  P L
+75   P2022-020   STF2474      AB  19091+3436   Lyr    [nan]         s. o.        NaN       s. o.  P L
+76   P2022-020   STF2481    A,BC  19111+3847   Lyr    [nan]         s. o.        NaN       s. o.  P L
+77   P2022-020   STF2483      AB  19124+3021   Lyr    [nan]         s. o.        NaN       s. o.  P L
+78   P2022-020   STF2483      AC  19124+3021   Lyr    [nan]         s. o.        NaN       s. o.  P L
+79   P2022-020   STF2483      BC  19124+3021   Lyr    [nan]         s. o.        NaN       s. o.  P L
+80   P2022-020   STF3130    AB,C  18560+4414   Lyr    [nan]         s. o.        NaN       s. o.  P L
+81   P2022-020   STF3130    AB,D  18560+4414   Lyr    [nan]         s. o.        NaN       s. o.  P L
+82   P2022-020   STFA 37      BI  18443+3940   Lyr    [nan]         s. o.        NaN       s. o.  P L
+83   P2022-020   STFA 37      CI  18443+3940   Lyr    [nan]         s. o.        NaN       s. o.  P L
+84   P2022-020   STFA 37      DI  18443+3940   Lyr    [nan]         s. o.        NaN       s. o.  P L
+85   P2022-020   STFA 37      EI  18443+3940   Lyr    [nan]         s. o.        NaN       s. o.  P L
+86   P2022-020   STFA 38      AD  18448+3736   Lyr    [nan]         s. o.        NaN       s. o.  P L
+87   P2022-020   STFA 39      AB  18501+3322   Lyr    [nan]         s. o.        NaN       s. o.  P L
+88   P2022-020   STT 352     PPL  18264+4649   Lyr      [1]  [2023-06-23]        NaN  2023-06-30  TAL
+89   P2022-020   STT 367    A,BC  19145+3434   Lyr    [nan]         s. o.        NaN       s. o.  P L
+90   P2022-020   STT 371    AB,C  19159+2727   Lyr    [nan]         s. o.        NaN       s. o.  P L
+91   P2022-020   STTA172     PPL  18445+3400   Lyr    [nan]         s. o.        NaN       s. o.  P L
+92   P2022-020   UC 3697      AB  18515+4340   Lyr    [nan]         s. o.        NaN       s. o.  P L
+93   P2022-020   UC 3706     PPL  18527+3704   Lyr    [nan]         s. o.        NaN       s. o.  P L
+94       aucun   BU  105  aucune  09247+2611   Leo    [nan]         S. o.        NaN       S. o.    ?
+95       aucun   BU  802  aucune  13486+4821   UMa    [nan]         S. o.        NaN       S. o.    ?
+96       aucun   HJ  476  aucune  10120+2007   Leo    [nan]         S. o.        NaN       S. o.    ?
+97       aucun   SHJ 107  aucune  09320+0943   Leo    [nan]         S. o.        NaN       S. o.    ?
+98       aucun   SHY 588  aucune  12027-1043   Vir    [nan]         S. o.        NaN       S. o.    ?
+99       aucun   STF  25  aucune  00187+1559   Psc    [nan]         S. o.        NaN       S. o.    ?
+100      aucun   STF 668  aucune  05145-0812   Ori    [nan]         S. o.        NaN       S. o.    ?
+101      aucun   STF 982  aucune  06546+1311   Gem    [nan]         S. o.        NaN       S. o.    ?
+102      aucun   STF1066  aucune  07201+2159   Gem    [nan]         S. o.        NaN       S. o.    ?
+103      aucun   STF1110  aucune  07346+3153   Gem    [nan]         S. o.        NaN       S. o.    ?
+104      aucun   STF1315  aucune  09128+6141   UMa    [nan]         S. o.        NaN       S. o.    ?
+105      aucun   STF1321  aucune  09144+5241   UMa    [nan]         S. o.        NaN       S. o.    ?
+106      aucun   STF1346  aucune  09256+5401   UMa    [nan]         S. o.        NaN       S. o.    ?
+107      aucun   STF1349  aucune  09312+6732   UMa    [nan]         S. o.        NaN       S. o.    ?
+108      aucun   STF1362  aucune  09379+7305   Dra    [nan]         S. o.        NaN       S. o.    ?
+109      aucun   STF1379  aucune  09453+0853   Leo    [nan]         S. o.        NaN       S. o.    ?
+110      aucun   STF1424  aucune  10200+1950   Leo    [nan]         S. o.        NaN       S. o.    ?
+111      aucun   STF1431  aucune  10256+0847   Leo    [nan]         S. o.        NaN       S. o.    ?
+112      aucun   STF1448  aucune  10344+2136   Leo    [nan]         S. o.        NaN       S. o.    ?
+113      aucun   STF1487  aucune  10556+2445   Leo    [nan]         S. o.        NaN       S. o.    ?
+114      aucun   STF1553  aucune  11366+5608   UMa    [nan]         S. o.        NaN       S. o.    ?
+115      aucun   STF1575  aucune  11520+0850   Vir    [nan]         S. o.        NaN       S. o.    ?
+116      aucun   STF1579  aucune  11551+4629   UMa    [nan]         S. o.        NaN       S. o.    ?
+117      aucun   STF1627  aucune  12182-0357   Vir    [nan]         S. o.        NaN       S. o.    ?
+118      aucun   STF1649  aucune  12316-1104   Vir    [nan]         S. o.        NaN       S. o.    ?
+119      aucun   STF1668  aucune  12409+0850   Vir    [nan]         S. o.        NaN       S. o.    ?
+120      aucun   STF1670  aucune  12417-0127   Vir    [nan]         S. o.        NaN       S. o.    ?
+121      aucun   STF1744  aucune  13239+5456   UMa    [nan]         S. o.        NaN       S. o.    ?
+122      aucun   STF1872  aucune  14410+5757   Dra    [nan]         S. o.        NaN       S. o.    ?
+123      aucun   STF1965  aucune  15394+3638   CrB    [nan]         S. o.        NaN       S. o.    ?
+124      aucun   STF2032  aucune  16147+3352   CrB    [nan]         S. o.        NaN       S. o.    ?
+125      aucun   STF2130  aucune  17053+5428   Dra    [nan]         S. o.        NaN       S. o.    ?
+126      aucun   STFA 14  aucune  05320-0018   Ori    [nan]         S. o.        NaN       S. o.    ?
+127      aucun   STFA 43  aucune  19307+2758   Cyg    [nan]         S. o.        NaN       S. o.    ?
+128      aucun   STT 215  aucune  10163+1744   Leo    [nan]         S. o.        NaN       S. o.    ?
+
+   10 programmes différents.
+  103 systèmes différents.
+
+   États des 129 enregistrements
+ -----------------------------------
+    3 (T) terminés (voir EXPLICATION du code du centre).
+   90 (P) en planification.
+   35 (?) sans programme | paire assigné.
+    0 (C) en cours.
+    0 (R) avec données prêtes pour la pré-réduction.
+    0 (X) avec données inutilisables (voir journal de réduction) et|ou fichier annulation.txt.
+
+ Légende des codes d'état
+ ------------------------
+ Code  [descriptions] :
+   123 ['1: ÉTAT, 2: EXPLICATION, 3: MÉTHODE de mesure.']
+   C.. ["En cours d'observation. Voir EXPLICATION."]
+   P.. ['Programme en planification.']
+   T.. ['Programme terminé, voir EXPLICATION.']
+   ?.. ["Aucun programme d'observation assigné."]
+   .A. ['Résultat acceptable, mais programme terminé avec N=1 et délai > 7.0 j.']
+   .E. ['Arrive à échéance dans moins de 7.0 j.']
+   .O. ['Résultat optimal : programme complété avec N>1.']
+   .S. ["Nouvelle session d'observation à planifier."]
+   .R. ['Il peut y avoir des données prêtes pour la pré-déduction.']
+   .X. ['Données inutilisables! Voir journal de post-réduction.']
+   ANL ['Programme ANNULÉ! Voir journal de réduction et fichier annulation.txt']
+   ..L ['Lucky Imaging.']
+   ..I ['Interférométrie des tavelures.']
